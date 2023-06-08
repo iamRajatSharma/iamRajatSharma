@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharma</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">A Passionate FullStack Developer</h3>
 
 - 📫 How to reach me **sharmarajat687@gmail.com**
 
