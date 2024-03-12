@@ -25,6 +25,6 @@
 
 <p style='text-align: center;'>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajatsharma&" alt="iamrajatsharma" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajatsharma&show_icons=true&locale=en" alt="iamrajatsharma" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrajatsharma&show_icons=true&locale=en" alt="iamrajatsharma" /> <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrajatsharma&show_icons=true&locale=en&layout=compact" alt="iamrajatsharma" />
 </p>
